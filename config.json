@@ -34,7 +34,6 @@
     "intervalGetNewCookie": 1440
   },
   "antiInbox": false,
-  "language": "en",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
